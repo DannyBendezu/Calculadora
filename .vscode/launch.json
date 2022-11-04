@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter-calculadora-getx-1.0.0",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-calculadora-getx-1.0.0 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-calculadora-getx-1.0.0 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
